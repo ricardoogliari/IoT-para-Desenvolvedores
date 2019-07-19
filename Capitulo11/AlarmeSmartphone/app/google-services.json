@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "425382104054",
+    "firebase_url": "https://alarmefirebase-31d5b.firebaseio.com",
+    "project_id": "alarmefirebase-31d5b",
+    "storage_bucket": "alarmefirebase-31d5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425382104054:android:fe6df6cf1680fc5d",
+        "android_client_info": {
+          "package_name": "com.example.ricardoogliari.alarmefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425382104054-v1f080p7v9avk1rjk2ifa39n8n107u16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ricardoogliari.alarmefirebase",
+            "certificate_hash": "fb64fb34a2623c24a40a5f13687c7045e6e44335"
+          }
+        },
+        {
+          "client_id": "425382104054-a5dksve3bsl1ci4mqmlifa8fllbcvi9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsUjofv8co6t3Ow5KOgtGX7dDBJ_MZ-Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425382104054-a5dksve3bsl1ci4mqmlifa8fllbcvi9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425382104054:android:572678956768118f",
+        "android_client_info": {
+          "package_name": "com.example.ricardoogliari.alarmesmartphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425382104054-0mic8fdr34iig3jdep65k6f9nbcuv5ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ricardoogliari.alarmesmartphone",
+            "certificate_hash": "fb64fb34a2623c24a40a5f13687c7045e6e44335"
+          }
+        },
+        {
+          "client_id": "425382104054-a5dksve3bsl1ci4mqmlifa8fllbcvi9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsUjofv8co6t3Ow5KOgtGX7dDBJ_MZ-Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425382104054-a5dksve3bsl1ci4mqmlifa8fllbcvi9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425382104054:android:8e5364a12b675775",
+        "android_client_info": {
+          "package_name": "estudos.com.br.alarmesmartphone2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425382104054-a5dksve3bsl1ci4mqmlifa8fllbcvi9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsUjofv8co6t3Ow5KOgtGX7dDBJ_MZ-Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425382104054-a5dksve3bsl1ci4mqmlifa8fllbcvi9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
