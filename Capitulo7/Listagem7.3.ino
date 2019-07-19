@@ -4,7 +4,7 @@ SoftwareSerial DebugSerial(2, 3); // RX, TX
 #define BLYNK_PRINT DebugSerial
 #include <BlynkSimpleStream.h>
 
-char auth[] = "w34LdJv5PlfX_2yv-du7A5hLvbTxZbZB";
+char auth[] = "w34LdJv5PlfX_2yv-du7A5hLvbTabcde";
 
 #include <math.h>
 
